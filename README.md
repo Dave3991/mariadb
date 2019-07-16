@@ -1,5 +1,5 @@
 # mariadb
-Mariadb with engine connect ...
+Mariadb Dockerfile with engine connect ...
 
 If you want to enable/install engine connect you have to run `INSTALL SONAME 'ha_connect';` after mariadb start.
 No restart is needed.
